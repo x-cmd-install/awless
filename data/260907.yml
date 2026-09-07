@@ -5,13 +5,13 @@ about:
   head: 44e892b
   archived: false
   latestVersion: "v0.1.11"
-  collectedAt: 2026-09-07T03:44:26Z
+  collectedAt: 2026-09-07T20:07:53Z
 timeline:
   created: 2016-06-03
   lastCommit: 2018-12-10
   lastRelease: 2018-06-21
 popularity:
-  star: 4956
+  star: 4955
   watcher: 95
   fork: 258
   release: 24
@@ -82,7 +82,7 @@ total:
   commit: 1340
 ---
 path: /home/runner/.x-repo/github.com/wallix/awless
-collectedAt: 2026-09-07T03:44:30Z
+collectedAt: 2026-09-07T20:07:58Z
 loc:
   Go:
     code: 880464
@@ -291,7 +291,7 @@ checks:
       - 'Warn: 0 commits out of 7 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T03:44:32+00:00
+  collectedAt: 2026-09-07T20:08:01+00:00
   platform:
     darwin/arm64:
       name:  null
