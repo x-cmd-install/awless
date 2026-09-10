@@ -23,7 +23,16 @@ x install awless
 - **Latest**: `v0.1.11` (2018-06-21)
 - **Last commit**: 2018-12-10
 - **Assets in release**: 5
-- **Published**: 2018-06-21T12:21:55Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [awless-darwin-amd64.tar.gz](https://github.com/wallix/awless/releases/download/v0.1.11/awless-darwin-amd64.tar.gz) | 8.7 MiB | `native/darwin/x64` |
+| [awless-linux-386.tar.gz](https://github.com/wallix/awless/releases/download/v0.1.11/awless-linux-386.tar.gz) | 7.7 MiB | `native/unknown` |
+| [awless-linux-amd64.tar.gz](https://github.com/wallix/awless/releases/download/v0.1.11/awless-linux-amd64.tar.gz) | 8.1 MiB | `native/linux/x64` |
+| [awless-windows-386.zip](https://github.com/wallix/awless/releases/download/v0.1.11/awless-windows-386.zip) | 7.8 MiB | `native/win/x64` |
+| [awless-windows-amd64.zip](https://github.com/wallix/awless/releases/download/v0.1.11/awless-windows-amd64.zip) | 8.2 MiB | `native/win/x64` |
 
 ## Popularity
 
@@ -68,8 +77,8 @@ Lowest-scoring checks:
 Install metadata for awless lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `awless` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/awless.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/awless.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T03:53:35Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T15:57:12Z._

@@ -4,7 +4,7 @@
 
 A Mighty CLI for AWS
 
-![awless](https://repo.x-cmd.io/awless.svg)
+![awless](https://repo.x-cmd.io/awless.svg?lang=zh)
 
 ## 安装
 
@@ -23,7 +23,16 @@ x install awless
 - **最新版本**: `v0.1.11` (2018-06-21)
 - **最近提交**: 2018-12-10
 - **Release 含资产**: 5 个
-- **发布时间**: 2018-06-21T12:21:55Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [awless-darwin-amd64.tar.gz](https://github.com/wallix/awless/releases/download/v0.1.11/awless-darwin-amd64.tar.gz) | 8.7 MiB | `native/darwin/x64` |
+| [awless-linux-386.tar.gz](https://github.com/wallix/awless/releases/download/v0.1.11/awless-linux-386.tar.gz) | 7.7 MiB | `native/unknown` |
+| [awless-linux-amd64.tar.gz](https://github.com/wallix/awless/releases/download/v0.1.11/awless-linux-amd64.tar.gz) | 8.1 MiB | `native/linux/x64` |
+| [awless-windows-386.zip](https://github.com/wallix/awless/releases/download/v0.1.11/awless-windows-386.zip) | 7.8 MiB | `native/win/x64` |
+| [awless-windows-amd64.zip](https://github.com/wallix/awless/releases/download/v0.1.11/awless-windows-amd64.zip) | 8.2 MiB | `native/win/x64` |
 
 ## 流行度
 
@@ -72,4 +81,4 @@ awless 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T03:53:36Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T15:57:13Z._
