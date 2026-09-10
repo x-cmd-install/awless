@@ -1,0 +1,12 @@
+- repo: aur
+  srcname: awless
+  binname: awless
+  visiblename: awless
+  version: 0.1.11
+  origversion: 0.1.11-1
+  status: unique
+  summary: A command line interface for Amazon Web Services (AWS)
+  maintainers:
+    - fallback-mnt-aur@repology
+  licenses:
+    - Apache
