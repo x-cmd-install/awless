@@ -12,45 +12,7 @@ A Mighty CLI for AWS
 x install awless
 ```
 
-## Source
-
-- **Upstream**: <https://github.com/wallix/awless>
-- **Homepage**: <http://awless.io/>
-- **License**: Apache-2.0
-
-## Release
-
-- **Latest**: `v0.1.11` (2018-06-21)
-- **Last commit**: 2018-12-10
-- **Assets in release**: 5
-
-## Release assets
-
-| Asset | Size | Target |
-|-------|-----:|--------|
-| [awless-darwin-amd64.tar.gz](https://github.com/wallix/awless/releases/download/v0.1.11/awless-darwin-amd64.tar.gz) | 8.7 MiB | `native/darwin/x64` |
-| [awless-linux-386.tar.gz](https://github.com/wallix/awless/releases/download/v0.1.11/awless-linux-386.tar.gz) | 7.7 MiB | `native/unknown` |
-| [awless-linux-amd64.tar.gz](https://github.com/wallix/awless/releases/download/v0.1.11/awless-linux-amd64.tar.gz) | 8.1 MiB | `native/linux/x64` |
-| [awless-windows-386.zip](https://github.com/wallix/awless/releases/download/v0.1.11/awless-windows-386.zip) | 7.8 MiB | `native/win/x64` |
-| [awless-windows-amd64.zip](https://github.com/wallix/awless/releases/download/v0.1.11/awless-windows-amd64.zip) | 8.2 MiB | `native/win/x64` |
-
-## Popularity
-
-- **Stars**: 4,955 · **Forks**: 258 · **Open issues**: 269 · **Contributors**: 14
-
-## Totals (cumulative)
-
-- **Releases**: 24 · **Merged PRs**: 22 · **Open PRs**: 4 · **Closed issues**: 154 · **Open issues**: 115 · **Commits**: 1340
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-15 | 0 | 0 | 0 | 0 | 0 | 0 |
-
-## Code size
+## Code insight
 
 Total: **1,500,944** lines of code across **3268** files in the top 5 languages.
 
@@ -72,6 +34,47 @@ Lowest-scoring checks:
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (-1/10) — No tokens found
 
+## Source
+
+- **Upstream**: <https://github.com/wallix/awless>
+- **Homepage**: <http://awless.io/>
+- **License**: Apache-2.0
+
+## Release
+
+- **Latest**: `v0.1.11` (2018-06-21)
+- **Last commit**: 2018-12-10
+- **Assets in release**: 5
+
+## Popularity
+
+- **Stars**: 4,955 · **Forks**: 258 · **Open issues**: 269 · **Contributors**: 14
+
+## Totals (cumulative)
+
+- **Releases**: 24 · **Merged PRs**: 22 · **Open PRs**: 4 · **Closed issues**: 154 · **Open issues**: 115 · **Commits**: 1340
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-14 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-20 | 0 | 0 | 0 | 0 | 0 | 0 |
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [awless-darwin-amd64.tar.gz](https://github.com/wallix/awless/releases/download/v0.1.11/awless-darwin-amd64.tar.gz) | 8.7 MiB | `native/darwin/x64` |
+| [awless-linux-386.tar.gz](https://github.com/wallix/awless/releases/download/v0.1.11/awless-linux-386.tar.gz) | 7.7 MiB | `native/unknown` |
+| [awless-linux-amd64.tar.gz](https://github.com/wallix/awless/releases/download/v0.1.11/awless-linux-amd64.tar.gz) | 8.1 MiB | `native/linux/x64` |
+| [awless-windows-386.zip](https://github.com/wallix/awless/releases/download/v0.1.11/awless-windows-386.zip) | 7.8 MiB | `native/win/x64` |
+| [awless-windows-amd64.zip](https://github.com/wallix/awless/releases/download/v0.1.11/awless-windows-amd64.zip) | 8.2 MiB | `native/win/x64` |
+
 ## Improve this data
 
 Install metadata for awless lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `awless` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -81,4 +84,4 @@ Install metadata for awless lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T15:57:12Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:10:40Z._
