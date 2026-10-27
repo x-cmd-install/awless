@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 9083632,
       "digest": null,
-      "download_count": 3027,
+      "download_count": 3035,
       "created_at": "2018-06-21T12:20:11Z",
       "updated_at": "2018-06-21T12:20:17Z",
       "browser_download_url": "https://github.com/wallix/awless/releases/download/v0.1.11/awless-darwin-amd64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 8452455,
       "digest": null,
-      "download_count": 294354,
+      "download_count": 294441,
       "created_at": "2018-06-21T12:20:12Z",
       "updated_at": "2018-06-21T12:20:22Z",
       "browser_download_url": "https://github.com/wallix/awless/releases/download/v0.1.11/awless-linux-amd64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 8142523,
       "digest": null,
-      "download_count": 310,
+      "download_count": 311,
       "created_at": "2018-06-21T12:20:12Z",
       "updated_at": "2018-06-21T12:20:25Z",
       "browser_download_url": "https://github.com/wallix/awless/releases/download/v0.1.11/awless-windows-386.zip"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 8599648,
       "digest": null,
-      "download_count": 1094,
+      "download_count": 1095,
       "created_at": "2018-06-21T12:20:13Z",
       "updated_at": "2018-06-21T12:20:28Z",
       "browser_download_url": "https://github.com/wallix/awless/releases/download/v0.1.11/awless-windows-amd64.zip"
